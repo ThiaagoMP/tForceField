@@ -1,0 +1,5 @@
+name: tForceField
+version: '1.0'
+main: br.com.thiaago.forcefield.TForceField
+api-version: 1.18
+description: Plugin made for Pixelated Studios
